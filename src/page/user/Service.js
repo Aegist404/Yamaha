@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from '../components/navbar/Navbar'
-import Footer from '../components/footer/Footer'
-import Contain from '../components/contain/Contain'
-import Banner from '../components/title/Banner'
-import Option from '../components/option/ServiceOption'
-import Sparepart from '../components/option/Sparepart'
+import Navbar from '../../components/navbar/Navbar'
+import Footer from '../../components/footer/Footer'
+import Contain from '../../components/contain/Contain'
+import Banner from '../../components/title/Banner'
+import Option from '../../components/form/FormOption'
+import Sparepart from '../../components/option/Sparepart'
  
 const Service = () => {
 

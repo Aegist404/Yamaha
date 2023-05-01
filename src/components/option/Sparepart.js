@@ -4,7 +4,7 @@ import Contain from '../contain/Contain'
 
 const Sparepart = () => {
 
-  const TextContain = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, labore vel quis rerum fugiat dolor suscipit accusamus eveniet! Dicta, delectus. Delectus necessitatibus officia tenetur laboriosam ut sed eaque unde ratione?'
+  const TextContain = 'Sparepart adalah komponen penting yang dibutuhkan untuk memperbaiki atau mengganti bagian yang rusak pada kendaraan. Pilihlah sparepart yang sesuai dengan kebutuhan dan budget Anda agar kendaraan Anda dapat berfungsi kembali seperti semula dengan optimal. Dengan memilih sparepart berkualitas, Anda dapat menghemat biaya perbaikan dalam jangka panjang dan memperpanjang usia kendaraan Anda'
 
   return (
     <div>
