@@ -23,7 +23,7 @@ const Footer = () => {
                     </Row>
                 </Col>
                 <Col>
-                    <Link to=''><img src='../image/tokopedia.png' alt='' className='me-3' width={80}/></Link>
+                    <Link to='https://www.tokopedia.com/yamaha-star?source=universe&st=product'><img src='../image/tokopedia.png' alt='' className='me-3' width={80}/></Link>
                     <Link to='https://www.instagram.com/yamahastarmotor/?hl=id'><img src='../image/instagram.png' alt='' className='me-3' width={50}/></Link>
                     <Link to=''><img src='../image/tiktok.png' alt='' className='me-3' width={55}/></Link>
                     <Link to=''><img src='../image/whatsapp.png' alt='' width={55}/></Link>
